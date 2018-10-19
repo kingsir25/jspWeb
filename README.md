@@ -20,7 +20,6 @@
 2. JavaWeb: 报错信息The superclass "javax.servlet.http.HttpServlet" was not foundon the Java Build Path
 
 >> 下面是具体的解决方法：
-
 >> 1、右击web工程-》属性或Build Path-》Java Build Path->Libraries-> Add Libray...->Server Runtime -》Tomcat Server
 >> 2、切换到Java
 >>  Build Path界面中的Orader and Export，选择Tomcat。
