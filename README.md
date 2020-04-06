@@ -1,6 +1,6 @@
 # jspweb
 # 入门jsp入门工程例子
-
+# 增加自定义jsp标签例子，通过封装c:out仿照bean：write接口
 ## software version 
 * java1.8se， 
 * Tomcat9.0，
@@ -10,6 +10,7 @@
 > > - "Spring Tools 3 Add-On 3.9.5 RELEASE"         TEST OK
 > + eclipse Version: 2018-09 (4.9.0)    
 > > - "Sptinh Toold 4 4.4.0.0.RELEASE"               TEST OK
+
 * 后台db数据库使用mysql5
 >> [db]: https://github.com/kingsir25/WSR/blob/master/dbinstall/create.txt "dbinstall/create.txt"
 >> 参照[db]文件，导入数据.
